@@ -2,7 +2,7 @@ body {
     min-height: 100vh;
     margin: 0;
     background-color: hsl(0, 0%, 15%);
-    background-image: url(https://miro.medium.com/max/1400/1*RnVORgYYejLEyoE0oR_W9A.jpeg);
+    background-image: url(./bg.jpg);
     background-size: cover;
     background-blend-mode: hard-light;
     font-family: 'Open Sans', sans-serif;
